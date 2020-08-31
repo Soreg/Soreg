@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![Soreg's github stats](https://github-readme-stats.vercel.app/api?username=soreg&show_icons=true&theme=onedark&text_color=f7f7f7)
+![Soreg's github stats](https://github-readme-stats.vercel.app/api?username=soreg&show_icons=true)
 
 <!--
 **Soreg/Soreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
