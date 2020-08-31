@@ -1,8 +1,8 @@
 ### Hi there 👋
 
-![Soreg's github stats](https://github-readme-stats.vercel.app/api?username=soreg&show_icons=true)
+![Soreg's github stats](https://github-readme-stats.vercel.app/api?username=soreg&show_icons=true&bg_color=130,247BA0,537895&text_color=f7f7f7&title_color=f7f7f7&icon_color=f7f7f7)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soreg&layout=compact&hide=typescript)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=soreg&layout=compact&hide=typescript&bg_color=130,247BA0,537895&text_color=f7f7f7&title_color=f7f7f7&icon_color=f7f7f7)
 
 <!--
 **Soreg/Soreg** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
